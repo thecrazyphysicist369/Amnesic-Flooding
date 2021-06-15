@@ -11,7 +11,7 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 
 ### Vertex (Each individual)
 **Property of each individual vertex:**
-Index: Index is a unique number given to a node for easy identification of each vertices. Each vertex represents a unique individual.
-Connected Neighbours: Each vertex is surrounded by a number of other vertices called the neighbouring vertices. The neighbouring vertices which are connected with the vertex through a medium are called connected neighbours.
-Memory: Each vertex has a specific amount of memory . This memory is exploited to store unique messages which it receives from its connected neighbouring individuals. 
-Generator: Few of the individuals are generators of messages. The generator generates a unique message and distributes it among its connected neighbouring individuals. 
+* Index: Index is a unique number given to a node for easy identification of each vertices. Each vertex represents a unique individual.
+* Connected Neighbours: Each vertex is surrounded by a number of other vertices called the neighbouring vertices. The neighbouring vertices which are connected with the vertex through a medium are called connected neighbours.
+* Memory: Each vertex has a specific amount of memory . This memory is exploited to store unique messages which it receives from its connected neighbouring individuals. 
+* Generator: Few of the individuals are generators of messages. The generator generates a unique message and distributes it among its connected neighbouring individuals. 
