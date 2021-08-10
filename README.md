@@ -1,5 +1,7 @@
 # Amnesic-Flooding
 This is a research project in amnesic flooding in a small world network.
+### Definitions
+
 ### WATTS-STROGATZ MODEL: 
 _The formal study of random graphs dates back to the work of Paul Erdős and Alfréd Rényi.[2] The graphs they considered, now known as the classical or Erdős–Rényi (ER) graphs, offer a simple and powerful model with many applications._
 
