@@ -17,3 +17,27 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 * Connected Neighbours: Each vertex is surrounded by a number of other vertices called the neighbouring vertices. The neighbouring vertices which are connected with the vertex through a medium are called connected neighbours.
 * Memory: Each vertex has a specific amount of memory . This memory is exploited to store unique messages which it receives from its connected neighbouring individuals. 
 * Generator: Few of the individuals are generators of messages. The generator generates a unique message and distributes it among its connected neighbouring individuals. 
+
+
+## Results
+
+### Average Hops per Iteration VS Iteration
+
+
+### Memory VS Total Hops per Iteration
+
+
+### Total hops VS per Message
+
+
+### Total hops per Iteration VS Iteration
+
+
+### Total hops VS Nearest Neighbors
+
+
+### Total hops VS Shareability
+
+
+
+
