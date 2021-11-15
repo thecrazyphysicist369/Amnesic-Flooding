@@ -35,10 +35,10 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 
 ### Memory VS Total Hops per Iteration
 #### Shareability = 1; Population = 100
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Memory%20vs%20Total%20Hops%20per%20Iteration/Shareability%201%3B%20Nodes%20100/s1n100.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Memory%20vs%20Total%20Hops%20per%20Iteration/Shareability%201%3B%20Nodes%20100/shareability1nodes100.gif)
 
 #### Shareability = 2; Population = 200
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Memory%20vs%20Total%20Hops%20per%20Iteration/Shareability%202%3B%20Nodes%20200/s2n200.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Memory%20vs%20Total%20Hops%20per%20Iteration/Shareability%202%3B%20Nodes%20200/shareability2node200.gif)
 
 ### Total hops VS per Message
 #### Memory
