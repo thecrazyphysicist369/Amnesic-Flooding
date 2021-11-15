@@ -23,7 +23,7 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 
 ### Average Hops per Iteration VS Iteration
 #### Memory
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Memory/memories.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Memory/memory_avghopvsiteration.gif)
 
 #### Nearest Neighbor
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Nearest%20Neighbour/nearest%20neighbour.gif)
