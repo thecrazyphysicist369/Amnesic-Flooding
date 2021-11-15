@@ -77,8 +77,8 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Total%20Hops%20vs%20Sharability/Memory%3D1%3B%20Iteration%3D100/memory1_iteration100.gif)
 
 
-#### Memory=1; Iteration=100
-![]()
+#### Memory=2; Iteration=20
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Total%20Hops%20vs%20Sharability/Memory%3D2%3B%20Iteration%3D20/memory2_iteration20.gif)
 
 
 #### Nearest Neighbors
