@@ -29,7 +29,7 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Nearest%20Neighbour/nearestneighbour_avghopvsiteration.gif)
 
 #### Shareability
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Shareability/shareability.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Average%20Hops%20per%20iteration%20vs%20Iteration/Shareability/shareability_avghopvsiteration.gif)
 
 
 
