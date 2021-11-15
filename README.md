@@ -68,7 +68,7 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Total%20Hops%20vs%20Nearest%20Neighbors/Memory/memory.gif)
 
 #### Shareability
-![]()
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/tree/main/Results/Total%20Hops%20vs%20Nearest%20Neighbors/Shareability)
 
 
 
