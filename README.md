@@ -42,7 +42,7 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 
 ### Total hops VS per Message
 #### Memory
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Memory/memory.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Memory/memory_permessagehops.gif)
 
 #### Nearest Neighbor
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Nearest%20Neighbour/nearest%20neighbors.gif)
