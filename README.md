@@ -40,15 +40,19 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 #### Shareability = 2; Population = 200
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Memory%20vs%20Total%20Hops%20per%20Iteration/Shareability%202%3B%20Nodes%20200/shareability2node200.gif)
 
+
+
 ### Total hops VS per Message
 #### Memory
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Memory/memory_permessagehops.gif)
 
 #### Nearest Neighbor
-![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Nearest%20Neighbour/nearest%20neighbors.gif)
+![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Nearest%20Neighbors/nearest_neighbour_permessagehops.gif)
 
 #### Shareability
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Per%20Message%20total%20Hops/Shareability/shreability.gif)
+
+
 
 ### Total hops per Iteration VS Iteration
 #### Nearest Neigbors
@@ -57,12 +61,16 @@ _The formal study of random graphs dates back to the work of Paul Erdős and Alf
 #### Shareability
 ![](https://github.com/thecrazyphysicist369/Amnesic-Flooding/blob/main/Results/Total%20hops%20per%20Iteration%20vs%20Iteration/Shareability/shareability.gif)
 
+
+
 ### Total hops VS Nearest Neighbors
 #### Memory
 ![]()
 
 #### Shareability
 ![]()
+
+
 
 ### Total hops VS Shareability
 #### Memory=1; Iteration=100
